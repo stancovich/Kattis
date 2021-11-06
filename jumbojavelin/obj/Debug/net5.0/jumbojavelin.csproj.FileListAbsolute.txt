@@ -1,0 +1,16 @@
+C:\Users\Samael\Documents\Kattis\jumbojavelin\bin\Debug\net5.0\jumbojavelin.exe
+C:\Users\Samael\Documents\Kattis\jumbojavelin\bin\Debug\net5.0\jumbojavelin.deps.json
+C:\Users\Samael\Documents\Kattis\jumbojavelin\bin\Debug\net5.0\jumbojavelin.runtimeconfig.json
+C:\Users\Samael\Documents\Kattis\jumbojavelin\bin\Debug\net5.0\jumbojavelin.runtimeconfig.dev.json
+C:\Users\Samael\Documents\Kattis\jumbojavelin\bin\Debug\net5.0\jumbojavelin.dll
+C:\Users\Samael\Documents\Kattis\jumbojavelin\bin\Debug\net5.0\ref\jumbojavelin.dll
+C:\Users\Samael\Documents\Kattis\jumbojavelin\bin\Debug\net5.0\jumbojavelin.pdb
+C:\Users\Samael\Documents\Kattis\jumbojavelin\obj\Debug\net5.0\jumbojavelin.csproj.AssemblyReference.cache
+C:\Users\Samael\Documents\Kattis\jumbojavelin\obj\Debug\net5.0\jumbojavelin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samael\Documents\Kattis\jumbojavelin\obj\Debug\net5.0\jumbojavelin.AssemblyInfoInputs.cache
+C:\Users\Samael\Documents\Kattis\jumbojavelin\obj\Debug\net5.0\jumbojavelin.AssemblyInfo.cs
+C:\Users\Samael\Documents\Kattis\jumbojavelin\obj\Debug\net5.0\jumbojavelin.csproj.CoreCompileInputs.cache
+C:\Users\Samael\Documents\Kattis\jumbojavelin\obj\Debug\net5.0\jumbojavelin.dll
+C:\Users\Samael\Documents\Kattis\jumbojavelin\obj\Debug\net5.0\ref\jumbojavelin.dll
+C:\Users\Samael\Documents\Kattis\jumbojavelin\obj\Debug\net5.0\jumbojavelin.pdb
+C:\Users\Samael\Documents\Kattis\jumbojavelin\obj\Debug\net5.0\jumbojavelin.genruntimeconfig.cache

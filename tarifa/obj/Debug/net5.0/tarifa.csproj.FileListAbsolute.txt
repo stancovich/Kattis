@@ -1,0 +1,16 @@
+C:\Users\Samael\Documents\Kattis\tarifa\bin\Debug\net5.0\tarifa.exe
+C:\Users\Samael\Documents\Kattis\tarifa\bin\Debug\net5.0\tarifa.deps.json
+C:\Users\Samael\Documents\Kattis\tarifa\bin\Debug\net5.0\tarifa.runtimeconfig.json
+C:\Users\Samael\Documents\Kattis\tarifa\bin\Debug\net5.0\tarifa.runtimeconfig.dev.json
+C:\Users\Samael\Documents\Kattis\tarifa\bin\Debug\net5.0\tarifa.dll
+C:\Users\Samael\Documents\Kattis\tarifa\bin\Debug\net5.0\ref\tarifa.dll
+C:\Users\Samael\Documents\Kattis\tarifa\bin\Debug\net5.0\tarifa.pdb
+C:\Users\Samael\Documents\Kattis\tarifa\obj\Debug\net5.0\tarifa.csproj.AssemblyReference.cache
+C:\Users\Samael\Documents\Kattis\tarifa\obj\Debug\net5.0\tarifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samael\Documents\Kattis\tarifa\obj\Debug\net5.0\tarifa.AssemblyInfoInputs.cache
+C:\Users\Samael\Documents\Kattis\tarifa\obj\Debug\net5.0\tarifa.AssemblyInfo.cs
+C:\Users\Samael\Documents\Kattis\tarifa\obj\Debug\net5.0\tarifa.csproj.CoreCompileInputs.cache
+C:\Users\Samael\Documents\Kattis\tarifa\obj\Debug\net5.0\tarifa.dll
+C:\Users\Samael\Documents\Kattis\tarifa\obj\Debug\net5.0\ref\tarifa.dll
+C:\Users\Samael\Documents\Kattis\tarifa\obj\Debug\net5.0\tarifa.pdb
+C:\Users\Samael\Documents\Kattis\tarifa\obj\Debug\net5.0\tarifa.genruntimeconfig.cache
