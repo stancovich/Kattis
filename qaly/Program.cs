@@ -8,15 +8,14 @@ namespace qaly
         {
             int N = int.Parse(Console.ReadLine());
             decimal sumQaly = 0;
-            string[] input = new string[N];
+            string[] Ni = new string[N];
             for (int i = 0; i < N; i++)
             {
-                input[i] = Console.ReadLine();
+                Ni[i] = Console.ReadLine();
             }
-            int[] numbers = new int[N];
             for (int i = 0; i < N; i++)
             {
-                string[]temp = input[i].Split(' ');
+                string[]temp = Ni[i].Split(' ');
                 decimal result = decimal.Parse(temp[0]) * decimal.Parse(temp[1]);
                 sumQaly += result;
             }
