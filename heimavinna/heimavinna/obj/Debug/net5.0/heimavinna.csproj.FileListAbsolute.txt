@@ -1,0 +1,15 @@
+D:\Repo\Kattis-CSharp\heimavinna\heimavinna\bin\Debug\net5.0\heimavinna.exe
+D:\Repo\Kattis-CSharp\heimavinna\heimavinna\bin\Debug\net5.0\heimavinna.deps.json
+D:\Repo\Kattis-CSharp\heimavinna\heimavinna\bin\Debug\net5.0\heimavinna.runtimeconfig.json
+D:\Repo\Kattis-CSharp\heimavinna\heimavinna\bin\Debug\net5.0\heimavinna.runtimeconfig.dev.json
+D:\Repo\Kattis-CSharp\heimavinna\heimavinna\bin\Debug\net5.0\heimavinna.dll
+D:\Repo\Kattis-CSharp\heimavinna\heimavinna\bin\Debug\net5.0\ref\heimavinna.dll
+D:\Repo\Kattis-CSharp\heimavinna\heimavinna\bin\Debug\net5.0\heimavinna.pdb
+D:\Repo\Kattis-CSharp\heimavinna\heimavinna\obj\Debug\net5.0\heimavinna.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Kattis-CSharp\heimavinna\heimavinna\obj\Debug\net5.0\heimavinna.AssemblyInfoInputs.cache
+D:\Repo\Kattis-CSharp\heimavinna\heimavinna\obj\Debug\net5.0\heimavinna.AssemblyInfo.cs
+D:\Repo\Kattis-CSharp\heimavinna\heimavinna\obj\Debug\net5.0\heimavinna.csproj.CoreCompileInputs.cache
+D:\Repo\Kattis-CSharp\heimavinna\heimavinna\obj\Debug\net5.0\heimavinna.dll
+D:\Repo\Kattis-CSharp\heimavinna\heimavinna\obj\Debug\net5.0\ref\heimavinna.dll
+D:\Repo\Kattis-CSharp\heimavinna\heimavinna\obj\Debug\net5.0\heimavinna.pdb
+D:\Repo\Kattis-CSharp\heimavinna\heimavinna\obj\Debug\net5.0\heimavinna.genruntimeconfig.cache
