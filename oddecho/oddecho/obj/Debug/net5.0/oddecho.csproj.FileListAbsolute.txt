@@ -1,0 +1,16 @@
+D:\Repo\Kattis-CSharp\oddecho\oddecho\obj\Debug\net5.0\oddecho.csproj.AssemblyReference.cache
+D:\Repo\Kattis-CSharp\oddecho\oddecho\obj\Debug\net5.0\oddecho.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Kattis-CSharp\oddecho\oddecho\obj\Debug\net5.0\oddecho.AssemblyInfoInputs.cache
+D:\Repo\Kattis-CSharp\oddecho\oddecho\obj\Debug\net5.0\oddecho.AssemblyInfo.cs
+D:\Repo\Kattis-CSharp\oddecho\oddecho\obj\Debug\net5.0\oddecho.csproj.CoreCompileInputs.cache
+D:\Repo\Kattis-CSharp\oddecho\oddecho\bin\Debug\net5.0\oddecho.exe
+D:\Repo\Kattis-CSharp\oddecho\oddecho\bin\Debug\net5.0\oddecho.deps.json
+D:\Repo\Kattis-CSharp\oddecho\oddecho\bin\Debug\net5.0\oddecho.runtimeconfig.json
+D:\Repo\Kattis-CSharp\oddecho\oddecho\bin\Debug\net5.0\oddecho.runtimeconfig.dev.json
+D:\Repo\Kattis-CSharp\oddecho\oddecho\bin\Debug\net5.0\oddecho.dll
+D:\Repo\Kattis-CSharp\oddecho\oddecho\bin\Debug\net5.0\ref\oddecho.dll
+D:\Repo\Kattis-CSharp\oddecho\oddecho\bin\Debug\net5.0\oddecho.pdb
+D:\Repo\Kattis-CSharp\oddecho\oddecho\obj\Debug\net5.0\oddecho.dll
+D:\Repo\Kattis-CSharp\oddecho\oddecho\obj\Debug\net5.0\ref\oddecho.dll
+D:\Repo\Kattis-CSharp\oddecho\oddecho\obj\Debug\net5.0\oddecho.pdb
+D:\Repo\Kattis-CSharp\oddecho\oddecho\obj\Debug\net5.0\oddecho.genruntimeconfig.cache
