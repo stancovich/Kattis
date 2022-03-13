@@ -1,0 +1,16 @@
+D:\Repo\Kattis-CSharp\aaah\aaah\bin\Debug\net5.0\aaah.exe
+D:\Repo\Kattis-CSharp\aaah\aaah\bin\Debug\net5.0\aaah.deps.json
+D:\Repo\Kattis-CSharp\aaah\aaah\bin\Debug\net5.0\aaah.runtimeconfig.json
+D:\Repo\Kattis-CSharp\aaah\aaah\bin\Debug\net5.0\aaah.runtimeconfig.dev.json
+D:\Repo\Kattis-CSharp\aaah\aaah\bin\Debug\net5.0\aaah.dll
+D:\Repo\Kattis-CSharp\aaah\aaah\bin\Debug\net5.0\ref\aaah.dll
+D:\Repo\Kattis-CSharp\aaah\aaah\bin\Debug\net5.0\aaah.pdb
+D:\Repo\Kattis-CSharp\aaah\aaah\obj\Debug\net5.0\aaah.csproj.AssemblyReference.cache
+D:\Repo\Kattis-CSharp\aaah\aaah\obj\Debug\net5.0\aaah.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Kattis-CSharp\aaah\aaah\obj\Debug\net5.0\aaah.AssemblyInfoInputs.cache
+D:\Repo\Kattis-CSharp\aaah\aaah\obj\Debug\net5.0\aaah.AssemblyInfo.cs
+D:\Repo\Kattis-CSharp\aaah\aaah\obj\Debug\net5.0\aaah.csproj.CoreCompileInputs.cache
+D:\Repo\Kattis-CSharp\aaah\aaah\obj\Debug\net5.0\aaah.dll
+D:\Repo\Kattis-CSharp\aaah\aaah\obj\Debug\net5.0\ref\aaah.dll
+D:\Repo\Kattis-CSharp\aaah\aaah\obj\Debug\net5.0\aaah.pdb
+D:\Repo\Kattis-CSharp\aaah\aaah\obj\Debug\net5.0\aaah.genruntimeconfig.cache
