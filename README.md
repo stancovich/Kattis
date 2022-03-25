@@ -2,5 +2,5 @@
 
 |Name|Language|Dificulty|🔗|
 |----|----|----|----|
-|content|content|content|content|
+|[aaah](https://github.com/stancovich/Kattis/tree/main/KattisCSharpSolutions/aaah)|content|content|content|
 |content|content|content|content|
