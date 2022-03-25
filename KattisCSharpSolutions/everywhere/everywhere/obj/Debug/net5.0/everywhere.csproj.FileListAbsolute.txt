@@ -1,0 +1,16 @@
+D:\Repo\Kattis-CSharp\everywhere\everywhere\bin\Debug\net5.0\everywhere.exe
+D:\Repo\Kattis-CSharp\everywhere\everywhere\bin\Debug\net5.0\everywhere.deps.json
+D:\Repo\Kattis-CSharp\everywhere\everywhere\bin\Debug\net5.0\everywhere.runtimeconfig.json
+D:\Repo\Kattis-CSharp\everywhere\everywhere\bin\Debug\net5.0\everywhere.runtimeconfig.dev.json
+D:\Repo\Kattis-CSharp\everywhere\everywhere\bin\Debug\net5.0\everywhere.dll
+D:\Repo\Kattis-CSharp\everywhere\everywhere\bin\Debug\net5.0\ref\everywhere.dll
+D:\Repo\Kattis-CSharp\everywhere\everywhere\bin\Debug\net5.0\everywhere.pdb
+D:\Repo\Kattis-CSharp\everywhere\everywhere\obj\Debug\net5.0\everywhere.csproj.AssemblyReference.cache
+D:\Repo\Kattis-CSharp\everywhere\everywhere\obj\Debug\net5.0\everywhere.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Kattis-CSharp\everywhere\everywhere\obj\Debug\net5.0\everywhere.AssemblyInfoInputs.cache
+D:\Repo\Kattis-CSharp\everywhere\everywhere\obj\Debug\net5.0\everywhere.AssemblyInfo.cs
+D:\Repo\Kattis-CSharp\everywhere\everywhere\obj\Debug\net5.0\everywhere.csproj.CoreCompileInputs.cache
+D:\Repo\Kattis-CSharp\everywhere\everywhere\obj\Debug\net5.0\everywhere.dll
+D:\Repo\Kattis-CSharp\everywhere\everywhere\obj\Debug\net5.0\ref\everywhere.dll
+D:\Repo\Kattis-CSharp\everywhere\everywhere\obj\Debug\net5.0\everywhere.pdb
+D:\Repo\Kattis-CSharp\everywhere\everywhere\obj\Debug\net5.0\everywhere.genruntimeconfig.cache
