@@ -1,0 +1,16 @@
+D:\Repo\Kattis\KattisCSharpSolutions\simon\simon\bin\Debug\net5.0\simon.exe
+D:\Repo\Kattis\KattisCSharpSolutions\simon\simon\bin\Debug\net5.0\simon.deps.json
+D:\Repo\Kattis\KattisCSharpSolutions\simon\simon\bin\Debug\net5.0\simon.runtimeconfig.json
+D:\Repo\Kattis\KattisCSharpSolutions\simon\simon\bin\Debug\net5.0\simon.runtimeconfig.dev.json
+D:\Repo\Kattis\KattisCSharpSolutions\simon\simon\bin\Debug\net5.0\simon.dll
+D:\Repo\Kattis\KattisCSharpSolutions\simon\simon\bin\Debug\net5.0\simon.pdb
+D:\Repo\Kattis\KattisCSharpSolutions\simon\simon\obj\Debug\net5.0\simon.csproj.AssemblyReference.cache
+D:\Repo\Kattis\KattisCSharpSolutions\simon\simon\obj\Debug\net5.0\simon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\Kattis\KattisCSharpSolutions\simon\simon\obj\Debug\net5.0\simon.AssemblyInfoInputs.cache
+D:\Repo\Kattis\KattisCSharpSolutions\simon\simon\obj\Debug\net5.0\simon.AssemblyInfo.cs
+D:\Repo\Kattis\KattisCSharpSolutions\simon\simon\obj\Debug\net5.0\simon.csproj.CoreCompileInputs.cache
+D:\Repo\Kattis\KattisCSharpSolutions\simon\simon\obj\Debug\net5.0\simon.dll
+D:\Repo\Kattis\KattisCSharpSolutions\simon\simon\obj\Debug\net5.0\refint\simon.dll
+D:\Repo\Kattis\KattisCSharpSolutions\simon\simon\obj\Debug\net5.0\simon.pdb
+D:\Repo\Kattis\KattisCSharpSolutions\simon\simon\obj\Debug\net5.0\simon.genruntimeconfig.cache
+D:\Repo\Kattis\KattisCSharpSolutions\simon\simon\obj\Debug\net5.0\ref\simon.dll
