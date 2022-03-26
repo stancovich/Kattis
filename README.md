@@ -11,10 +11,10 @@
 |[jumbojavelin](https://github.com/stancovich/Kattis/tree/main/KattisCSharpSolutions/jumbojavelin)|C#|1.3|[:cat:](https://open.kattis.com/problems/jumbojavelin)|
 |[oddecho](https://github.com/stancovich/Kattis/tree/main/KattisCSharpSolutions/oddecho)|C#|1.3|[:cat:](oddecho)|
 |[qaly](https://github.com/stancovich/Kattis/tree/main/KattisCSharpSolutions/qaly)|C#|1.3|[:cat:](https://open.kattis.com/problems/qaly)|
+|[simon](https://github.com/stancovich/Kattis/tree/main/KattisCSharpSolutions/simon)|C#|2.5|[:cat:](https://open.kattis.com/problems/simon)|
 |[tarifa](https://github.com/stancovich/Kattis/tree/main/KattisCSharpSolutions/tarifa)|C#|1.3|[:cat:](https://open.kattis.com/problems/tarifa)|
 |[triarea](https://github.com/stancovich/Kattis/tree/main/KattisCSharpSolutions/triarea)|C#|1.3|[:cat:](https://open.kattis.com/problems/triarea)|
 |[twostones](https://github.com/stancovich/Kattis/tree/main/KattisCSharpSolutions/twostones)|C#|1.3|[:cat:](https://open.kattis.com/problems/twostones)|
-|[]()|C#||[:cat:]()|
 |[]()|C#||[:cat:]()|
 |[]()|C#||[:cat:]()|
 |[]()|C#||[:cat:]()|
